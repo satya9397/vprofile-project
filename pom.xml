@@ -204,3 +204,7 @@
         </plugins>
     </build>
 </project>
+<properties>
+  <sonar.organization>satya9397</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
